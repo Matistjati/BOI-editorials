@@ -13,3 +13,7 @@ Editorials marked with \* are unofficial. Feel free to contact me if you have a 
 | 2016 |  |  |  | [Park](https://hackmd.io/Xpf7nQRcS7WcAKkxiXxnBw)\* |
 | 2015 |  |  | [Network](https://hackmd.io/ycF_LYeMRJ6VMMIUQs-zsQ)\* |  |  | [Tug of war](https://hackmd.io/9HwGfPTXQsWuN0DQRJq2gw)\* |
 | 2014 | [Coprobber](editions/2014/coprobber.pdf) | [Friends](editions/2014/friends.md) | [Sequence](editions/2014/sequence.md) | [Demarcation](editions/2014/demarcation.pdf) | [Portals](editions/2014/portals.md) | [Postmen](https://hackmd.io/-0c9lHR_QICv85TIXwPAbw)\* |
+| 2013 | [Ballmachine](editions/2013/ballmachine.pdf) | [Numbers](editions/2013/numbers.pdf) | [Pipes](editions/2013/pipes.pdf) | [Brunhilda](editions/2013/brunhilda.pdf) | [Tracks](editions/2013/tracks.pdf) | [Vim](editions/2013/vim.pdf) |
+| 2012 | [Brackets](editions/2012/brackets.pdf) | [Mobile](editions/2012/mobile.pdf) | [Peaks](editions/2012/peaks.pdf) | [Fire](editions/2012/fire.pdf) | [Melody](editions/2012/melody.pdf) |  |
+| 2010 | [Bears](editions/2010/bears.pdf) | [Lego](editions/2010/lego.pdf) | [Pbc](editions/2010/pbc.pdf) | [Bins](editions/2010/bins.pdf) | [Candies](editions/2010/candies.pdf) | [Mines](editions/2010/mines.pdf) |
+| 2009 | [Beetle](editions/2009/beetle.pdf) | [Candy](editions/2009/candy.pdf) | [Subway](editions/2009/subway.pdf) | [Rectangle](editions/2009/rectangle.pdf) | [Triangulation](editions/2009/triangulation.pdf) | [Monument](editions/2009/monument.pdf) |

@@ -37,6 +37,21 @@ years = {
     "2014":
         ["coprobber","friends","sequence","demarcation","portals",("postmen", "https://hackmd.io/-0c9lHR_QICv85TIXwPAbw")]
     ,
+    "2013":
+        ["ballmachine", "numbers", "pipes", "brunhilda", "tracks", "vim"]
+    ,
+    "2012":
+        ["brackets", "mobile", "peaks", "fire", "melody", ""]
+    ,
+    "2011":
+        []
+    ,
+    "2010":
+        ["bears", "lego", "pbc", "bins", "candies", "mines"]
+    ,
+    "2009":
+        ["beetle", "candy", "subway", "rectangle", "triangulation", "monument"]
+    ,
 }
 
 header = ["Year", "D1-1", "D1-2", "D1-3", "D2-1", "D2-2", "D2-3", "", ""]
