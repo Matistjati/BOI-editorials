@@ -10,6 +10,7 @@ Editorials marked with \* are unofficial. Feel free to contact me if you have a 
 | 2020 | [Colors](editions/2020/colors.pdf) | [Mixture](editions/2020/mixture.pdf) | [Joker](editions/2020/joker.pdf) | [Graph](editions/2020/graph.pdf) | [Village](editions/2020/village.pdf) | [Viruses](editions/2020/viruses.pdf) |
 | 2019 | [Flash](editions/2019/flash.pdf) | [Nautilus](editions/2019/nautilus.pdf) | [Valley](editions/2019/valley.pdf) | [Kitchen](editions/2019/kitchen.pdf) | [Necklace](editions/2019/necklace.pdf) | [Olympiads](editions/2019/olympiads.pdf) |
 | 2018 | [Day1](editions/2018/day1.pdf) |  |  | [Day2](editions/2018/day2.pdf) |
+| 2017 | [Political](https://hackmd.io/sq5UfdRKQYKPTbEiaqf1LQ)\* |  |  |  |  |  |
 | 2016 |  |  |  | [Park](https://hackmd.io/Xpf7nQRcS7WcAKkxiXxnBw)\* |
 | 2015 |  |  | [Network](https://hackmd.io/ycF_LYeMRJ6VMMIUQs-zsQ)\* |  |  | [Tug of war](https://hackmd.io/9HwGfPTXQsWuN0DQRJq2gw)\* |
 | 2014 | [Coprobber](editions/2014/coprobber.pdf) | [Friends](editions/2014/friends.md) | [Sequence](editions/2014/sequence.md) | [Demarcation](editions/2014/demarcation.pdf) | [Portals](editions/2014/portals.md) | [Postmen](https://hackmd.io/-0c9lHR_QICv85TIXwPAbw)\* |

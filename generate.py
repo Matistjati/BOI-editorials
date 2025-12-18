@@ -26,7 +26,7 @@ years = {
         ["day1", "day2"]
     ,
     "2017":
-        []
+        [("political", "https://hackmd.io/sq5UfdRKQYKPTbEiaqf1LQ"), "", "", "", "", ""]
     ,
     "2016":
         ["", ("park", "https://hackmd.io/Xpf7nQRcS7WcAKkxiXxnBw")]
