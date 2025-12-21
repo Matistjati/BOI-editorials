@@ -44,7 +44,7 @@ years = {
         ["brackets", "mobile", "peaks", "fire", "melody", ""]
     ,
     "2011":
-        []
+        ["trees", "icecream", "lamp", "vikings", "meetings", "plagiarism", "polygon", "mirroring"]
     ,
     "2010":
         ["bears", "lego", "pbc", "bins", "candies", "mines"]
@@ -77,7 +77,7 @@ for year, p_list in years.items():
     if len(p_list) == 0:
         continue
     tasks = []
-    if len(p_list) == 6:
+    if len(p_list) in (6, 8):
         tasks = p_list
     elif len(p_list) == 2:
         tasks = [p_list[0], "", "", p_list[1]]
