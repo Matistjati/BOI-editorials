@@ -29,7 +29,7 @@ years = {
         [("political", "https://hackmd.io/sq5UfdRKQYKPTbEiaqf1LQ"), "", "", "", "", ""]
     ,
     "2016": # These years having no editorials is shameful
-        ["", ("park", "https://hackmd.io/Xpf7nQRcS7WcAKkxiXxnBw")]
+        ["", ("park", "https://hackmd.io/Xpf7nQRcS7WcAKkxiXxnBw"), "", "", "", ""]
     ,
     "2015": # These years having no editorials is shameful
         ["", "", ("network", "https://hackmd.io/ycF_LYeMRJ6VMMIUQs-zsQ"), "", "", ("Tug of War", "https://hackmd.io/9HwGfPTXQsWuN0DQRJq2gw")]

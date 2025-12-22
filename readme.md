@@ -11,7 +11,7 @@ Editorials marked with \* are unofficial, X are missing and (u) are not in Engli
 | 2019 | [Flash](editions/2019/flash.pdf) | [Nautilus](editions/2019/nautilus.pdf) | [Valley](editions/2019/valley.pdf) | [Kitchen](editions/2019/kitchen.pdf) | [Necklace](editions/2019/necklace.pdf) | [Olympiads](editions/2019/olympiads.pdf) |
 | 2018 | [Day1](editions/2018/day1.pdf) | [Day1](editions/2018/day1.pdf) | [Day1](editions/2018/day1.pdf) | [Day2](editions/2018/day2.pdf) | [Day2](editions/2018/day2.pdf) | [Day2](editions/2018/day2.pdf) |
 | 2017 | [Political](https://hackmd.io/sq5UfdRKQYKPTbEiaqf1LQ)\* | X | X | X | X | X |
-| 2016 | X | X | X | [Park](https://hackmd.io/Xpf7nQRcS7WcAKkxiXxnBw)\* | [Park](https://hackmd.io/Xpf7nQRcS7WcAKkxiXxnBw)\* | [Park](https://hackmd.io/Xpf7nQRcS7WcAKkxiXxnBw)\* |
+| 2016 | X | [Park](https://hackmd.io/Xpf7nQRcS7WcAKkxiXxnBw)\* | X | X | X | X |
 | 2015 | X | X | [Network](https://hackmd.io/ycF_LYeMRJ6VMMIUQs-zsQ)\* | X | X | [Tug of war](https://hackmd.io/9HwGfPTXQsWuN0DQRJq2gw)\* |
 | 2014 | [Coprobber](editions/2014/coprobber.pdf) | [Friends](editions/2014/friends.md) | [Sequence](editions/2014/sequence.md) | [Demarcation](editions/2014/demarcation.pdf) | [Portals](editions/2014/portals.md) | [Postmen](https://hackmd.io/-0c9lHR_QICv85TIXwPAbw)\* |
 | 2013 | [Ballmachine](editions/2013/ballmachine.pdf) | [Numbers](editions/2013/numbers.pdf) | [Pipes](editions/2013/pipes.pdf) | [Brunhilda](editions/2013/brunhilda.pdf) | [Tracks](editions/2013/tracks.pdf) | [Vim](editions/2013/vim.pdf) |
@@ -35,4 +35,4 @@ Editorials marked with \* are unofficial, X are missing and (u) are not in Engli
 | 1995 | [Currency](editions/1995/currency.pdf) | [Expression](editions/1995/expression.pdf) | [Prime](editions/1995/prime.pdf) | [Rectangles](editions/1995/rectangles.pdf) | [Taxi](editions/1995/taxi.pdf) | [Ifthenelse](editions/1995/ifthenelse.pdf) |
 
 
-Progress: 75.00%
+Progress: 73.94%
