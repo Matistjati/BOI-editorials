@@ -63,7 +63,7 @@ years = {
         ["bitwise", "", "countries", "", "RLE", "jump"]
     ,
     "2005": # Missing manuscript (normal task)
-        ["camp", "magic", "maze", "ancient", "bustrip", "polygon"]
+        ["camp", "magic", "maze", "ancient(t)", "bustrip", "polygon"]
     ,
     "2004": # CSES only has code solutions. Website has no editorials (http://www.boi2004.lv/)
         ["", "", "", "", "", ""]
@@ -106,16 +106,18 @@ print("|" + "|".join(["------"] * len(header)) + "|")
 extensions = ["pdf", "md", "txt"]
 def format_url(year, task):
     if isinstance(task, str):
-        task_name = task
-        task = task.replace("(u)", "")
-        task = task.replace("(t)", "")
+        suffix = ""
+        for mark in ["(u)", "(t)"]:
+            if mark in task:
+                suffix += mark
+                task = task.replace(mark, "")
         for ext in extensions:
             if (Path("editions") / year / f"{task}.{ext}").exists():
                 extension = ext
                 break
         else:
             assert 0, f"Nothing for {year}/{task}"
-        return f"[{task_name.capitalize()}](editions/{year}/{task}.{extension})"
+        return f"[{task.capitalize()}](editions/{year}/{task}.{extension}){suffix}"
     else:
         return f"[{task[0].capitalize()}]({task[1]})\\*"
 
