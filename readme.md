@@ -1,4 +1,11 @@
-Editorials marked with \* are unofficial, X are missing, (t) are translated, and (u) are not in English. Feel free to contact me if you have any (or a better one than mine) available.
+Legend:
+- X: missing
+- *: unofficial
+- (t) translated
+- (u) untranslated, not in English
+
+Please contact me if you have any of the missing editorials.
+Also feel free to contact me if you believe you have a better version of any of the unofficial ones.
 
 | Year | D1-1 | D1-2 | D1-3 | D2-1 | D2-2 | D2-3 |  |  |
 |------|------|------|------|------|------|------|------|------|
