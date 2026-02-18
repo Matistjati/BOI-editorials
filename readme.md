@@ -27,7 +27,7 @@ Editorials marked with \* are unofficial, X are missing, (t) are translated, and
 | 2003 | [Barrel](editions/2003/barrel.md) | [Gems](editions/2003/gems.pdf) | X | [Gangs](editions/2003/gangs.pdf) | [Lamps](editions/2003/lamps.pdf) | [Regs](editions/2003/regs.pdf) |
 | 2002 | [Speed](editions/2002/speed.pdf) | [Tennis](editions/2002/tennis.pdf) | [Triangles](editions/2002/triangles.pdf) | [Bicriterial](editions/2002/bicriterial.pdf) | [Lgame](editions/2002/lgame.pdf) | [Robots](editions/2002/robots.pdf) |
 | 2001 | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) |
-| 2000 | [Editorial](editions/2000/editorial.pdf) | [Editorial](editions/2000/editorial.pdf) | [Editorial](editions/2000/editorial.pdf) | [Editorial](editions/2000/editorial.pdf) | [Editorial](editions/2000/editorial.pdf) | [Editorial](editions/2000/editorial.pdf) |
+| 2000 | [Editorial(u)](editions/2000/editorial.pdf) | [Editorial(u)](editions/2000/editorial.pdf) | [Editorial(u)](editions/2000/editorial.pdf) | [Editorial(u)](editions/2000/editorial.pdf) | [Editorial(u)](editions/2000/editorial.pdf) | [Editorial(u)](editions/2000/editorial.pdf) |
 | 1999 | X | X | X | X | X | X |
 | 1998 | X | X | X | X | X | X |
 | 1997 | X | X | X | X | X | X |

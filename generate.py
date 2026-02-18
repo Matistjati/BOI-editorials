@@ -106,6 +106,7 @@ print("|" + "|".join(["------"] * len(header)) + "|")
 extensions = ["pdf", "md", "txt"]
 def format_url(year, task):
     if isinstance(task, str):
+        task_name = task
         task = task.replace("(u)", "")
         task = task.replace("(t)", "")
         for ext in extensions:
@@ -114,7 +115,7 @@ def format_url(year, task):
                 break
         else:
             assert 0, f"Nothing for {year}/{task}"
-        return f"[{task.capitalize()}](editions/{year}/{task}.{extension})"
+        return f"[{task_name.capitalize()}](editions/{year}/{task}.{extension})"
     else:
         return f"[{task[0].capitalize()}]({task[1]})\\*"
 
