@@ -1,4 +1,4 @@
-Editorials marked with \* are unofficial, X are missing and (u) are not in English. Feel free to contact me if you have any (or a better one than mine) available.
+Editorials marked with \* are unofficial, X are missing, (t) are translated, and (u) are not in English. Feel free to contact me if you have any (or a better one than mine) available.
 
 | Year | D1-1 | D1-2 | D1-3 | D2-1 | D2-2 | D2-3 |  |  |
 |------|------|------|------|------|------|------|------|------|
@@ -22,12 +22,12 @@ Editorials marked with \* are unofficial, X are missing and (u) are not in Engli
 | 2008 | [Editorial](editions/2008/editorial.pdf) | [Editorial](editions/2008/editorial.pdf) | [Editorial](editions/2008/editorial.pdf) | [Editorial](editions/2008/editorial.pdf) | [Editorial](editions/2008/editorial.pdf) | [Editorial](editions/2008/editorial.pdf) |
 | 2007 | [Editorial](editions/2007/editorial.pdf) | [Editorial](editions/2007/editorial.pdf) | [Editorial](editions/2007/editorial.pdf) | [Editorial](editions/2007/editorial.pdf) | [Editorial](editions/2007/editorial.pdf) | [Editorial](editions/2007/editorial.pdf) |
 | 2006 | [Bitwise](editions/2006/bitwise.pdf) | X | [Countries](editions/2006/countries.md) | X | [Rle](editions/2006/RLE.pdf) | [Jump](editions/2006/jump.md) |
-| 2005 | [Camp](editions/2005/camp.pdf) | [Magic](editions/2005/magic.md) | [Maze](editions/2005/maze.txt) | X | [Bustrip](editions/2005/bustrip.md) | [Polygon](editions/2005/polygon.md) |
+| 2005 | [Camp](editions/2005/camp.pdf) | [Magic](editions/2005/magic.md) | [Maze](editions/2005/maze.txt) | [Ancient](editions/2005/ancient.md) | [Bustrip](editions/2005/bustrip.md) | [Polygon](editions/2005/polygon.md) |
 | 2004 | X | X | X | X | X | X |
 | 2003 | [Barrel](editions/2003/barrel.md) | [Gems](editions/2003/gems.pdf) | X | [Gangs](editions/2003/gangs.pdf) | [Lamps](editions/2003/lamps.pdf) | [Regs](editions/2003/regs.pdf) |
 | 2002 | [Speed](editions/2002/speed.pdf) | [Tennis](editions/2002/tennis.pdf) | [Triangles](editions/2002/triangles.pdf) | [Bicriterial](editions/2002/bicriterial.pdf) | [Lgame](editions/2002/lgame.pdf) | [Robots](editions/2002/robots.pdf) |
 | 2001 | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) |
-| 2000 | [Editorial(u)](editions/2000/editorial(u).pdf) | [Editorial(u)](editions/2000/editorial(u).pdf) | [Editorial(u)](editions/2000/editorial(u).pdf) | [Editorial(u)](editions/2000/editorial(u).pdf) | [Editorial(u)](editions/2000/editorial(u).pdf) | [Editorial(u)](editions/2000/editorial(u).pdf) |
+| 2000 | [Editorial](editions/2000/editorial.pdf) | [Editorial](editions/2000/editorial.pdf) | [Editorial](editions/2000/editorial.pdf) | [Editorial](editions/2000/editorial.pdf) | [Editorial](editions/2000/editorial.pdf) | [Editorial](editions/2000/editorial.pdf) |
 | 1999 | X | X | X | X | X | X |
 | 1998 | X | X | X | X | X | X |
 | 1997 | X | X | X | X | X | X |
@@ -35,4 +35,4 @@ Editorials marked with \* are unofficial, X are missing and (u) are not in Engli
 | 1995 | [Currency](editions/1995/currency.pdf) | [Expression](editions/1995/expression.pdf) | [Prime](editions/1995/prime.pdf) | [Rectangles](editions/1995/rectangles.pdf) | [Taxi](editions/1995/taxi.pdf) | [Ifthenelse](editions/1995/ifthenelse.pdf) |
 
 
-Progress: 73.94%
+Progress: 74.47%
