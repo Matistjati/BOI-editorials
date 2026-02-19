@@ -31,7 +31,7 @@ Also feel free to contact me if you believe you have a better version of any of 
 | 2006 | [Bitwise](editions/2006/bitwise.pdf) | X | [Countries](editions/2006/countries.md) | X | [Rle](editions/2006/RLE.pdf) | [Jump](editions/2006/jump.md) |
 | 2005 | [Camp](editions/2005/camp.pdf) | [Magic](editions/2005/magic.md) | [Maze](editions/2005/maze.txt) | [Ancient](editions/2005/ancient.md)(t) | [Bustrip](editions/2005/bustrip.md) | [Polygon](editions/2005/polygon.md) |
 | 2004 | X | X | X | X | X | X |
-| 2003 | [Barrel](editions/2003/barrel.md) | [Gems](editions/2003/gems.pdf) | X | [Gangs](editions/2003/gangs.pdf) | [Lamps](editions/2003/lamps.pdf) | [Regs](editions/2003/regs.pdf) |
+| 2003 | [Barrel](editions/2003/barrel.md) | [Gems](editions/2003/gems.pdf) | [Table](editions/2003/table.md)* | [Gangs](editions/2003/gangs.pdf) | [Lamps](editions/2003/lamps.pdf) | [Regs](editions/2003/regs.pdf) |
 | 2002 | [Speed](editions/2002/speed.pdf) | [Tennis](editions/2002/tennis.pdf) | [Triangles](editions/2002/triangles.pdf) | [Bicriterial](editions/2002/bicriterial.pdf) | [Lgame](editions/2002/lgame.pdf) | [Robots](editions/2002/robots.pdf) |
 | 2001 | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) | [Editorial](editions/2001/editorial.pdf) |
 | 2000 | [Editorial](editions/2000/editorial.pdf)(u) | [Editorial](editions/2000/editorial.pdf)(u) | [Editorial](editions/2000/editorial.pdf)(u) | [Editorial](editions/2000/editorial.pdf)(u) | [Editorial](editions/2000/editorial.pdf)(u) | [Editorial](editions/2000/editorial.pdf)(u) |
@@ -42,4 +42,4 @@ Also feel free to contact me if you believe you have a better version of any of 
 | 1995 | [Currency](editions/1995/currency.pdf) | [Expression](editions/1995/expression.pdf) | [Prime](editions/1995/prime.pdf) | [Rectangles](editions/1995/rectangles.pdf) | [Taxi](editions/1995/taxi.pdf) | [Ifthenelse](editions/1995/ifthenelse.pdf) |
 
 
-Progress: 74.47%
+Progress: 75.00%

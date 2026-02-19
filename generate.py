@@ -68,8 +68,8 @@ years = {
     "2004": # CSES only has code solutions. Website has no editorials (http://www.boi2004.lv/)
         ["", "", "", "", "", ""]
     ,
-    "2003": # The missing task, table, is open input heuristic
-        ["barrel", "gems", "", "gangs", "lamps", "regs"]
+    "2003":
+        ["barrel", "gems", "table*", "gangs", "lamps", "regs"]
     ,
     "2002":
         ["speed", "tennis", "triangles", "bicriterial", "lgame", "robots"]
@@ -115,7 +115,7 @@ extensions = ["pdf", "md", "txt"]
 def format_url(year, task):
     if isinstance(task, str):
         suffix = ""
-        for mark in ["(u)", "(t)"]:
+        for mark in ["(u)", "(t)", "*"]:
             if mark in task:
                 suffix += mark
                 task = task.replace(mark, "")

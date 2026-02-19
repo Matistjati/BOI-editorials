@@ -1,0 +1,1566 @@
+M=1: Found solution: smallest N=2 (0.01s)
+1 2
+3 0
+
+M=2: Found solution: smallest N=2 (0.01s)
+1 2
+4 0
+
+M=3: Found solution: smallest N=2 (0.01s)
+3 6
+9 0
+
+M=4: Found solution: smallest N=2 (0.01s)
+2 4
+8 0
+
+M=5: Found solution: smallest N=3 (0.01s)
+8 1 5
+2 0 0
+5 5 0
+
+M=6: Found solution: smallest N=3 (0.01s)
+6 2 4
+1 0 2
+2 4 0
+
+M=7: Found solution: smallest N=3 (0.01s)
+6 5 1
+5 6 0
+8 7 5
+
+M=8: Found solution: smallest N=3 (0.01s)
+8 1 6
+4 0 0
+8 4 0
+
+M=9: Found solution: smallest N=3 (0.01s)
+8 1 9
+4 3 2
+6 5 7
+
+M=10: Unsolvable because 10 divides 10
+
+M=11: Found solution: smallest N=3 (0.01s)
+3 9 6
+8 0 3
+5 2 8
+
+M=12: Found solution: smallest N=3 (0.01s)
+1 5 6
+4 2 0
+4 8 0
+
+M=13: Found solution: smallest N=3 (0.01s)
+6 2 4
+1 8 2
+1 6 9
+
+M=14: Found solution: smallest N=3 (0.01s)
+5 7 4
+1 4 0
+8 2 6
+
+M=15: Found solution: smallest N=4 (0.06s)
+3 2 8 5
+8 8 6 5
+2 2 5 0
+5 0 5 5
+
+M=16: Found solution: smallest N=3 (0.01s)
+6 2 4
+8 4 8
+8 0 0
+
+M=17: Found solution: smallest N=4 (0.18s)
+4 8 4 5
+5 5 2 5
+2 0 5 7
+2 0 0 6
+
+M=18: Found solution: smallest N=4 (0.12s)
+5 7 7 8
+9 8 1 0
+5 1 8 4
+8 2 2 6
+
+M=19: Found solution: smallest N=4 (0.13s)
+5 4 5 3
+5 0 3 5
+8 0 7 5
+6 9 7 3
+
+M=20: Unsolvable because 10 divides 20
+
+M=21: Found solution: smallest N=4 (0.09s)
+6 1 1 1
+7 4 7 6
+8 4 6 3
+3 9 4 8
+
+M=22: Found solution: smallest N=4 (0.04s)
+1 1 4 4
+5 3 6 8
+6 4 2 4
+2 2 0 0
+
+M=23: Found solution: smallest N=4 (0.08s)
+9 5 4 5
+2 7 3 7
+6 5 0 9
+9 0 1 6
+
+M=24: Found solution: smallest N=3 (0.00s)
+9 1 2
+8 6 4
+4 8 0
+
+M=25: Found solution: smallest N=4 (0.02s)
+3 5 2 5
+8 7 5 0
+2 2 0 0
+5 5 0 0
+
+M=26: Found solution: smallest N=4 (0.06s)
+8 3 7 2
+5 7 4 6
+2 1 3 2
+8 8 6 6
+
+M=27: Found solution: smallest N=4 (0.05s)
+8 7 4 8
+9 3 6 9
+6 9 9 3
+4 8 8 7
+
+M=28: Found solution: smallest N=4 (0.05s)
+9 1 2 8
+9 3 5 2
+1 1 2 0
+2 6 0 4
+
+M=29: Found solution: smallest N=4 (0.04s)
+8 3 5 2
+6 7 8 6
+1 1 8 9
+3 2 7 7
+
+M=30: Unsolvable because 10 divides 30
+
+M=31: Found solution: smallest N=4 (0.03s)
+5 4 2 5
+7 3 1 6
+9 7 3 4
+7 1 9 2
+
+M=32: Found solution: smallest N=4 (0.03s)
+8 1 9 2
+2 3 0 4
+5 1 2 0
+6 2 4 0
+
+M=33: Found solution: smallest N=4 (0.02s)
+9 4 3 8
+1 9 8 0
+4 1 9 1
+1 7 4 9
+
+M=34: Found solution: smallest N=4 (0.03s)
+6 5 9 6
+5 2 7 0
+6 3 5 8
+2 6 8 6
+
+M=35: Found solution: smallest N=5 (2.83s)
+4 3 7 1 5
+4 4 2 7 5
+9 2 4 0 0
+7 3 1 1 5
+5 0 5 0 5
+
+M=36: Found solution: smallest N=5 (4.18s)
+2 1 6 7 2
+5 4 9 0 0
+5 3 6 0 4
+2 6 9 2 8
+4 4 6 0 4
+
+M=37: Found solution: smallest N=4 (0.03s)
+4 2 9 2
+3 1 8 2
+2 4 0 5
+9 6 5 7
+
+M=38: Found solution: smallest N=4 (0.02s)
+9 3 4 8
+6 0 4 2
+1 7 4 8
+4 8 6 4
+
+M=39: Found solution: smallest N=4 (0.02s)
+3 2 7 6
+6 4 3 5
+2 5 3 5
+7 7 2 2
+
+M=40: Unsolvable because 10 divides 40
+
+M=41: Found solution: smallest N=4 (0.02s)
+1 9 2 7
+3 1 5 7
+5 0 8 4
+3 2 3 9
+
+M=42: Found solution: smallest N=4 (0.02s)
+5 9 6 4
+1 7 2 2
+2 8 1 4
+4 6 6 2
+
+M=43: Found solution: smallest N=4 (0.04s)
+9 3 7 4
+2 7 9 5
+8 8 1 5
+8 4 2 8
+
+M=44: Found solution: smallest N=4 (0.01s)
+9 2 8 4
+9 0 6 4
+4 6 2 0
+4 8 4 0
+
+M=45: Found solution constructively: smallest N=10 (0.01s)
+9 7 3 1 7 1 3 1 8 5
+9 6 3 4 7 8 3 1 8 5
+4 5 8 8 1 7 1 8 3 0
+8 3 5 2 7 3 6 8 7 5
+3 9 5 1 8 3 6 6 8 5
+2 6 7 5 6 4 2 5 3 5
+2 7 8 1 6 9 5 1 1 5
+9 8 9 2 5 6 1 7 2 5
+3 3 1 7 2 8 4 3 0 5
+5 0 5 5 5 5 5 5 5 5
+
+M=46: Found solution: smallest N=4 (0.02s)
+1 6 5 6
+9 3 8 4
+7 0 8 4
+8 2 8 0
+
+M=47: Found solution: smallest N=4 (0.02s)
+2 9 1 4
+1 5 0 4
+6 4 8 6
+2 1 1 5
+
+M=48: Found solution: smallest N=4 (0.01s)
+1 6 3 2
+5 9 0 4
+3 1 2 0
+6 2 4 0
+
+M=49: Found solution: smallest N=4 (0.02s)
+2 7 4 4
+8 2 8 1
+9 5 0 6
+1 2 2 5
+
+M=50: Unsolvable because 10 divides 50
+
+M=51: Found solution: smallest N=4 (0.03s)
+7 1 9 1
+5 0 4 9
+4 2 3 3
+8 0 5 8
+
+M=52: Found solution: smallest N=4 (0.01s)
+5 1 4 8
+5 0 9 6
+6 4 4 8
+4 0 0 4
+
+M=53: Found solution: smallest N=4 (0.03s)
+3 4 4 5
+1 3 2 5
+2 4 9 1
+7 6 3 2
+
+M=54: Found solution: smallest N=4 (0.02s)
+2 5 3 8
+6 8 5 8
+4 8 6 0
+6 6 4 2
+
+M=55: Found solution: smallest N=5 (1.16s)
+9 6 1 9 5
+3 3 6 0 5
+6 8 1 4 5
+6 0 7 7 5
+5 0 0 5 0
+
+M=56: Found solution: smallest N=4 (0.01s)
+5 4 8 8
+3 2 4 8
+7 5 0 4
+6 6 0 8
+
+M=57: Found solution: smallest N=4 (0.02s)
+7 1 2 5
+2 8 5 0
+9 8 6 1
+6 1 5 6
+
+M=58: Found solution: smallest N=5 (1.19s)
+8 9 7 8 4
+4 7 7 9 2
+7 4 9 3 6
+9 9 5 2 8
+6 8 2 0 8
+
+M=59: Found solution: smallest N=4 (0.03s)
+3 4 2 2
+2 3 0 1
+4 6 0 2
+5 6 6 4
+
+M=60: Unsolvable because 10 divides 60
+
+M=61: Found solution: smallest N=4 (0.02s)
+6 6 4 9
+1 5 8 6
+6 2 8 3
+1 7 0 8
+
+M=62: Found solution: smallest N=4 (0.05s)
+8 6 1 8
+7 3 1 6
+4 2 7 8
+2 4 8 0
+
+M=63: Found solution: smallest N=5 (0.90s)
+3 6 8 5 5
+5 7 9 6 0
+3 5 1 5 4
+4 3 4 7 0
+3 6 5 4 0
+
+M=64: Found solution: smallest N=4 (0.03s)
+5 3 1 2
+2 5 6 0
+4 8 6 4
+8 4 4 8
+
+M=65: Found solution: smallest N=5 (0.73s)
+9 8 2 1 5
+9 7 8 2 5
+2 4 1 8 0
+5 9 4 7 5
+5 0 5 0 5
+
+M=66: Found solution: smallest N=5 (3.81s)
+7 7 4 8 4
+6 6 7 9 2
+2 6 8 6 2
+9 9 5 9 4
+6 2 0 4 0
+
+M=67: Found solution: smallest N=5 (0.85s)
+1 5 8 1 2
+5 7 5 5 3
+6 7 0 6 7
+7 5 9 1 1
+8 4 0 1 8
+
+M=68: Found solution: smallest N=5 (0.72s)
+5 1 8 1 6
+1 1 6 2 8
+9 8 8 7 2
+5 3 3 8 0
+2 2 6 4 4
+
+M=69: Found solution: smallest N=5 (0.74s)
+2 1 7 3 5
+9 2 8 7 4
+5 4 8 5 5
+3 2 6 3 7
+2 0 7 6 9
+
+M=70: Unsolvable because 10 divides 70
+
+M=71: Found solution: smallest N=5 (0.74s)
+4 2 5 2 9
+5 5 2 3 8
+2 2 5 7 8
+9 7 4 8 3
+8 6 0 5 2
+
+M=72: Found solution: smallest N=5 (0.77s)
+2 8 6 5 6
+7 3 3 6 8
+9 5 0 4 0
+3 9 7 4 4
+6 2 2 8 0
+
+M=73: Found solution: smallest N=5 (0.77s)
+9 4 6 8 1
+4 1 2 4 5
+5 4 9 6 9
+3 6 2 0 8
+5 4 6 7 7
+
+M=74: Found solution: smallest N=5 (0.80s)
+5 6 5 3 6
+1 6 0 5 8
+5 2 6 8 8
+7 3 1 1 2
+8 0 6 6 0
+
+M=75: Found solution: smallest N=6 (577.38s)
+7 9 1 3 2 5
+8 2 9 7 2 5
+4 8 6 0 0 0
+4 2 5 3 2 5
+2 7 7 5 0 0
+5 5 5 0 0 0
+
+M=76: Found solution: smallest N=4 (0.02s)
+8 4 3 6
+5 3 2 0
+1 3 6 8
+2 2 8 0
+
+M=77: Found solution: smallest N=5 (0.74s)
+1 5 5 5 4
+3 9 9 6 3
+3 1 4 9 3
+2 3 4 8 5
+1 6 4 0 1
+
+M=78: Found solution: smallest N=4 (0.01s)
+3 8 2 2
+5 1 4 8
+8 1 9 0
+8 2 6 8
+
+M=79: Found solution: smallest N=5 (0.79s)
+8 9 6 6 5
+4 7 1 6 3
+6 2 2 5 2
+8 4 2 1 4
+8 9 5 8 6
+
+M=80: Unsolvable because 10 divides 80
+
+M=81: Found solution: smallest N=5 (2.60s)
+4 5 5 2 2
+2 1 2 2 2
+3 1 1 8 5
+6 1 6 4 1
+3 1 4 2 8
+
+M=82: Found solution: smallest N=5 (0.65s)
+5 4 7 7 6
+8 4 3 7 8
+5 8 1 3 8
+4 5 4 2 8
+8 4 4 6 0
+
+M=83: Found solution: smallest N=5 (0.45s)
+1 3 5 2 9
+3 1 3 7 4
+3 2 1 2 1
+6 9 2 2 2
+3 1 0 4 2
+
+M=84: Found solution: smallest N=5 (0.66s)
+7 4 1 7 2
+5 2 7 5 2
+4 7 4 6 0
+3 5 7 0 0
+2 6 2 0 8
+
+M=85: Timeout (>300s)
+
+M=86: Found solution: smallest N=5 (2.13s)
+4 2 6 5 6
+8 9 0 9 6
+4 7 0 4 2
+1 5 2 2 2
+8 6 8 6 0
+
+M=87: Found solution: smallest N=5 (2.88s)
+4 6 2 8 4
+6 8 7 3 0
+6 5 1 6 3
+3 5 4 9 6
+2 6 4 4 8
+
+M=88: Found solution: smallest N=5 (0.34s)
+9 6 5 3 6
+1 9 9 7 6
+2 6 4 8 8
+5 9 0 4 8
+6 6 0 0 0
+
+M=89: Found solution: smallest N=5 (4.99s)
+7 3 3 3 6
+4 2 7 2 0
+9 5 4 0 8
+3 7 6 4 7
+8 4 9 0 6
+
+M=90: Unsolvable because 10 divides 90
+
+M=91: Found solution: smallest N=5 (0.35s)
+2 5 3 8 9
+3 1 1 2 2
+1 8 2 9 1
+1 7 1 0 8
+4 0 3 1 3
+
+M=92: Found solution: smallest N=5 (0.36s)
+4 3 7 9 2
+3 3 3 9 6
+9 8 2 5 6
+7 5 3 4 8
+6 6 2 4 0
+
+M=93: Found solution: smallest N=5 (2.29s)
+1 8 8 7 9
+2 0 3 6 7
+5 2 2 6 6
+5 5 3 3 5
+5 9 5 2 0
+
+M=94: Found solution: smallest N=5 (0.60s)
+7 9 2 4 2
+4 6 7 1 8
+5 6 4 9 4
+4 3 4 2 8
+2 2 8 4 2
+
+M=95: Timeout (>300s)
+
+M=96: Found solution: smallest N=5 (0.32s)
+8 9 4 7 2
+9 6 7 6 8
+3 1 4 8 8
+7 9 2 0 0
+6 2 4 0 0
+
+M=97: Found solution: smallest N=5 (2.33s)
+3 6 9 5 7
+6 0 4 3 1
+6 7 5 1 2
+6 2 7 5 9
+6 2 5 6 5
+
+M=98: Found solution: smallest N=5 (0.37s)
+1 8 3 2 6
+4 4 5 9 0
+7 6 6 3 6
+9 7 7 0 6
+8 2 2 2 2
+
+M=99: Found solution: smallest N=5 (5.70s)
+6 7 1 2 2
+8 9 1 0 0
+2 2 6 7 1
+1 9 8 9 9
+1 9 2 0 6
+
+M=100: Unsolvable because 10 divides 100
+
+M=101: Found solution: smallest N=5 (0.26s)
+3 3 8 3 5
+4 5 5 5 1
+8 2 0 1 2
+4 4 4 4 0
+5 9 2 8 7
+
+M=102: Found solution: smallest N=5 (6.89s)
+7 4 7 6 6
+2 6 2 1 4
+5 1 3 0 6
+2 0 1 9 6
+2 4 8 8 8
+
+M=103: Found solution: smallest N=5 (1.79s)
+9 8 6 7 4
+4 6 3 5 0
+4 2 0 2 4
+5 1 3 9 7
+1 1 6 3 9
+
+M=104: Found solution: smallest N=5 (0.79s)
+3 4 4 2 4
+3 0 0 5 6
+6 3 6 4 8
+9 5 6 8 0
+6 2 4 0 0
+
+M=105: Timeout (>300s)
+
+M=106: Found solution: smallest N=5 (3.54s)
+4 8 9 7 2
+3 7 1 0 0
+2 9 9 9 8
+4 8 0 1 8
+8 0 2 4 2
+
+M=107: Found solution: smallest N=5 (2.27s)
+7 5 2 2 1
+5 9 1 7 1
+6 0 8 8 3
+4 6 2 2 4
+9 4 8 0 2
+
+M=108: Found solution: smallest N=5 (0.50s)
+6 2 9 6 4
+7 5 0 6 0
+1 0 6 9 2
+7 5 1 6 8
+6 6 2 0 4
+
+M=109: Found solution: smallest N=5 (19.44s)
+4 4 7 9 9
+5 5 4 8 1
+9 0 3 6 1
+9 1 3 4 2
+8 7 8 5 4
+
+M=110: Unsolvable because 10 divides 110
+
+M=111: Found solution: smallest N=5 (0.35s)
+4 6 7 3 1
+5 7 9 4 2
+1 5 0 9 6
+7 9 3 6 5
+7 9 2 5 4
+
+M=112: Found solution: smallest N=5 (0.39s)
+5 8 5 7 6
+6 9 1 0 4
+8 7 8 0 8
+9 1 5 0 4
+6 2 6 0 8
+
+M=113: Found solution: smallest N=5 (8.72s)
+8 4 9 7 6
+6 0 0 0 3
+5 5 5 9 6
+5 6 1 6 1
+8 7 3 4 9
+
+M=114: Found solution: smallest N=5 (1.67s)
+3 6 9 3 6
+5 4 2 6 4
+6 8 4 0 0
+8 6 5 2 6
+2 6 4 4 8
+
+M=115: Timeout (>300s)
+
+M=116: Found solution: smallest N=5 (0.77s)
+2 3 8 9 6
+2 7 8 4 0
+2 2 0 4 0
+7 3 4 2 8
+2 6 4 4 8
+
+M=117: Found solution: smallest N=5 (11.04s)
+8 1 5 4 9
+2 8 4 3 1
+2 9 9 5 2
+5 5 9 2 6
+1 4 0 4 0
+
+M=118: Found solution: smallest N=5 (2.47s)
+2 9 7 3 6
+6 6 7 8 8
+6 0 5 3 4
+6 5 2 5 4
+8 2 6 0 0
+
+M=119: Found solution: smallest N=5 (4.82s)
+9 5 9 1 4
+3 3 6 7 7
+4 9 0 2 8
+1 0 3 5 3
+5 7 3 5 8
+
+M=120: Unsolvable because 10 divides 120
+
+M=121: Found solution: smallest N=5 (1.45s)
+7 1 1 4 8
+4 5 1 3 3
+5 0 0 9 4
+3 0 1 2 9
+6 4 1 3 0
+
+M=122: Found solution: smallest N=5 (1.25s)
+2 6 4 7 4
+2 5 0 1 0
+4 7 3 3 6
+4 5 8 7 2
+8 8 2 0 6
+
+M=123: Found solution: smallest N=5 (0.98s)
+1 9 5 5 7
+4 8 5 8 5
+6 8 5 1 1
+3 9 9 7 5
+7 2 6 9 3
+
+M=124: Found solution: smallest N=5 (0.49s)
+6 3 3 6 4
+5 0 4 6 8
+4 7 2 4 4
+7 5 2 6 8
+2 2 4 4 4
+
+M=125: Found solution: smallest N=6 (84.79s)
+2 9 9 1 2 5
+7 1 5 7 5 0
+1 8 5 6 2 5
+1 3 8 0 0 0
+2 7 7 0 0 0
+5 5 5 0 0 0
+
+M=126: Found solution: smallest N=5 (0.66s)
+4 7 7 5 4
+7 9 3 8 0
+3 5 0 2 8
+7 0 8 1 2
+6 6 0 2 4
+
+M=127: Found solution: smallest N=5 (1.20s)
+1 1 9 3 8
+6 9 5 9 6
+7 5 1 8 4
+6 5 2 7 8
+4 8 3 8 7
+
+M=128: Found solution: smallest N=5 (0.54s)
+8 3 5 8 4
+5 3 3 7 6
+6 5 2 8 0
+3 3 4 0 8
+2 6 8 8 0
+
+M=129: Found solution: smallest N=5 (5.64s)
+4 1 5 3 8
+8 6 4 3 0
+7 8 5 6 1
+6 9 6 6 0
+2 9 7 9 9
+
+M=130: Unsolvable because 10 divides 130
+
+M=131: Found solution: smallest N=5 (1.84s)
+8 9 3 4 2
+5 8 1 6 4
+9 3 9 2 7
+3 8 6 4 5
+6 1 4 3 9
+
+M=132: Found solution: smallest N=5 (0.23s)
+3 7 7 5 2
+3 9 9 9 6
+1 3 8 6 0
+3 3 6 6 0
+2 2 0 4 4
+
+M=133: Found solution: smallest N=5 (7.38s)
+2 9 6 5 9
+9 4 4 3 0
+5 1 3 3 8
+2 6 7 3 3
+6 4 2 3 9
+
+M=134: Found solution: smallest N=5 (4.28s)
+1 4 3 3 8
+7 2 0 9 2
+5 2 9 3 0
+5 1 5 9 0
+4 0 4 6 8
+
+M=135: Timeout (>300s)
+
+M=136: Found solution: smallest N=5 (0.53s)
+4 9 9 1 2
+8 8 6 7 2
+1 4 0 0 8
+4 6 1 0 4
+4 4 6 0 8
+
+M=137: Found solution: smallest N=6 (74.78s)
+3 9 8 2 5 9
+3 2 6 1 9 7
+4 9 5 8 0 3
+9 5 0 2 3 2
+6 4 1 4 3 4
+5 5 8 1 3 8
+
+M=138: Found solution: smallest N=5 (7.74s)
+5 2 8 5 4
+9 1 7 7 0
+4 2 0 9 0
+7 5 7 6 2
+8 2 8 0 0
+
+M=139: Found solution: smallest N=5 (1.01s)
+4 1 5 6 1
+2 8 3 5 6
+1 2 7 8 8
+1 0 9 8 1
+7 9 3 6 9
+
+M=140: Unsolvable because 10 divides 140
+
+M=141: Found solution: smallest N=5 (2.45s)
+2 2 9 8 3
+3 4 4 0 4
+8 6 8 5 6
+2 7 9 1 8
+9 5 3 1 6
+
+M=142: Found solution: smallest N=5 (0.84s)
+8 6 1 9 4
+5 9 4 9 8
+6 0 4 9 2
+2 1 8 6 8
+6 2 4 8 0
+
+M=143: Found solution: smallest N=5 (2.27s)
+7 7 6 4 9
+2 4 1 6 7
+3 3 6 0 5
+5 6 3 4 2
+8 0 3 6 6
+
+M=144: Found solution: smallest N=5 (0.74s)
+4 8 3 8 4
+5 9 4 7 2
+7 1 2 8 0
+9 3 7 4 4
+2 6 2 0 8
+
+M=145: Timeout (>300s)
+
+M=146: Found solution: smallest N=5 (6.46s)
+1 7 2 2 8
+7 0 8 1 0
+8 2 3 4 4
+1 2 2 6 4
+2 6 4 2 6
+
+M=147: Found solution: smallest N=5 (17.36s)
+1 8 8 1 6
+5 1 5 9 7
+5 8 9 4 7
+8 7 9 0 6
+2 9 5 4 7
+
+M=148: Found solution: smallest N=5 (1.22s)
+1 6 4 2 8
+7 9 0 3 2
+3 1 9 6 8
+1 1 9 8 8
+6 6 6 0 0
+
+M=149: Found solution: smallest N=5 (0.80s)
+8 3 1 4 2
+4 3 0 6 1
+6 8 5 4 0
+3 2 7 8 0
+2 3 9 8 9
+
+M=150: Unsolvable because 10 divides 150
+
+M=151: Found solution: smallest N=5 (6.33s)
+8 7 1 2 7
+1 9 7 8 1
+6 2 6 6 5
+9 7 6 9 7
+1 5 7 0 4
+
+M=152: Found solution: smallest N=5 (1.31s)
+3 7 8 4 8
+8 1 1 6 8
+9 5 7 6 0
+1 9 7 6 0
+2 2 6 4 8
+
+M=153: Found solution: smallest N=5 (3.35s)
+8 9 3 5 2
+4 0 3 9 2
+4 2 3 8 1
+5 7 5 2 8
+6 0 4 3 5
+
+M=154: Found solution: smallest N=5 (0.66s)
+1 1 3 9 6
+8 6 3 9 4
+3 9 1 1 6
+2 4 1 7 8
+6 0 0 6 0
+
+M=155: Timeout (>300s)
+
+M=156: Found solution: smallest N=5 (0.56s)
+3 1 8 2 4
+8 1 5 8 8
+6 5 0 5 2
+8 4 2 4 0
+8 4 0 8 4
+
+M=157: Found solution: smallest N=5 (6.06s)
+8 1 3 2 6
+4 7 7 2 8
+6 7 6 6 7
+2 4 8 0 6
+3 1 0 8 6
+
+M=158: Found solution: smallest N=5 (2.66s)
+6 1 1 4 6
+1 7 5 3 8
+7 8 3 6 8
+7 5 2 0 8
+8 4 6 8 8
+
+M=159: Found solution: smallest N=5 (7.03s)
+5 5 3 3 2
+4 4 9 9 7
+6 8 2 1 1
+9 5 7 1 8
+6 5 3 4 9
+
+M=160: Unsolvable because 10 divides 160
+
+M=161: Found solution: smallest N=5 (7.03s)
+9 7 8 8 8
+2 7 3 7 0
+5 4 7 4 0
+7 4 2 2 1
+5 1 0 3 7
+
+M=162: Found solution: smallest N=6 (25.52s)
+5 3 2 3 3 2
+5 3 1 3 6 0
+3 9 7 3 8 6
+8 3 8 3 5 0
+7 9 9 9 5 6
+8 0 0 6 0 4
+
+M=163: Found solution: smallest N=5 (7.35s)
+4 7 4 3 3
+3 0 1 5 5
+3 9 2 8 3
+5 0 3 6 7
+8 5 9 0 1
+
+M=164: Found solution: smallest N=5 (0.13s)
+5 8 8 7 6
+8 8 8 8 8
+3 7 2 2 8
+8 2 3 2 8
+4 4 2 8 0
+
+M=165: Timeout (>300s)
+
+M=166: Found solution: smallest N=5 (0.85s)
+8 7 4 8 2
+2 0 0 8 6
+8 8 8 1 0
+3 8 3 4 6
+4 2 6 6 2
+
+M=167: Found solution: smallest N=5 (6.75s)
+1 6 5 3 3
+2 9 0 5 8
+3 6 7 4 0
+5 3 6 0 7
+8 9 8 4 6
+
+M=168: Found solution: smallest N=5 (1.02s)
+3 7 6 3 2
+1 5 7 9 2
+7 9 2 9 6
+5 3 0 8 8
+2 6 0 4 0
+
+M=169: Found solution: smallest N=6 (30.15s)
+7 4 3 9 3 8
+8 8 8 6 0 2
+4 6 4 5 8 1
+8 2 1 6 7 8
+3 1 3 6 6 4
+6 3 7 6 3 7
+
+M=170: Unsolvable because 10 divides 170
+
+M=171: Found solution: smallest N=5 (6.23s)
+9 8 4 9 6
+1 4 3 6 4
+6 3 0 9 9
+5 0 9 5 8
+6 3 2 7 0
+
+M=172: Found solution: smallest N=6 (18.65s)
+3 6 6 1 8 8
+2 1 4 6 5 6
+3 9 2 1 6 0
+1 0 2 8 5 6
+8 2 4 5 6 8
+8 8 8 2 0 8
+
+M=173: Found solution: smallest N=5 (0.56s)
+7 8 3 6 9
+3 1 1 4 0
+8 1 6 5 6
+7 3 5 2 5
+1 7 9 9 2
+
+M=174: Found solution: smallest N=5 (2.35s)
+2 9 7 5 4
+6 9 4 2 6
+7 3 4 2 8
+9 5 7 0 0
+6 4 2 0 6
+
+M=175: Timeout (>300s)
+
+M=176: Found solution: smallest N=5 (3.68s)
+1 4 4 3 2
+7 8 6 7 2
+7 7 4 4 0
+7 5 6 8 0
+6 2 4 8 0
+
+M=177: Found solution: smallest N=5 (2.47s)
+6 4 7 8 2
+2 5 3 1 1
+1 3 4 5 2
+2 1 5 9 4
+7 2 5 7 0
+
+M=178: Found solution: smallest N=5 (0.82s)
+6 6 3 9 4
+4 7 1 7 0
+7 2 8 0 2
+9 8 6 1 2
+2 4 2 0 8
+
+M=179: Found solution: smallest N=6 (26.44s)
+8 4 4 3 4 3
+6 5 6 0 3 5
+2 4 9 1 6 8
+9 1 3 7 9 5
+5 2 3 9 3 3
+9 3 8 4 9 7
+
+M=180: Unsolvable because 10 divides 180
+
+M=181: Found solution: smallest N=5 (1.42s)
+5 7 7 3 9
+9 3 2 1 5
+3 8 9 1 5
+6 4 4 3 6
+8 8 3 2 8
+
+M=182: Found solution: smallest N=5 (0.38s)
+4 2 2 2 4
+1 5 8 3 4
+4 1 3 1 4
+9 1 9 1 0
+6 6 2 4 8
+
+M=183: Found solution: smallest N=5 (2.57s)
+5 3 4 3 6
+1 5 0 0 6
+7 1 9 1 9
+8 3 9 9 7
+9 6 2 5 8
+
+M=184: Found solution: smallest N=5 (0.29s)
+2 7 7 8 4
+1 7 1 1 2
+7 8 0 1 6
+1 3 2 4 8
+2 2 4 4 8
+
+M=185: Found solution: smallest N=6 (12.63s)
+9 8 6 9 7 5
+5 6 9 4 3 0
+5 9 1 2 6 0
+5 6 9 0 6 0
+2 8 0 2 7 5
+5 5 0 0 0 5
+
+M=186: Found solution: smallest N=6 (14.93s)
+8 6 9 9 2 2
+1 5 9 9 6 0
+7 2 1 4 9 4
+6 3 3 3 3 0
+5 0 8 5 2 4
+6 2 0 6 8 2
+
+M=187: Found solution: smallest N=6 (15.30s)
+4 4 6 3 6 9
+7 2 0 8 8 5
+1 5 8 2 0 2
+6 4 1 4 1 0
+1 2 2 1 1 1
+4 5 4 5 9 7
+
+M=188: Found solution: smallest N=5 (0.53s)
+5 9 5 9 6
+2 0 4 9 2
+8 2 7 2 0
+2 4 0 6 4
+8 0 8 4 0
+
+M=189: Found solution: smallest N=6 (17.97s)
+2 4 6 6 4 5
+8 8 8 8 6 7
+4 1 3 5 3 2
+2 7 8 5 8 6
+5 6 0 0 0 7
+6 1 2 3 6 0
+
+M=190: Unsolvable because 10 divides 190
+
+M=191: Found solution: smallest N=6 (24.44s)
+2 8 9 3 6 5
+4 1 0 6 5 0
+3 9 6 8 9 8
+3 5 4 4 9 6
+3 8 8 3 0 3
+4 1 6 9 5 3
+
+M=192: Found solution: smallest N=5 (1.33s)
+7 2 7 6 8
+4 8 3 8 4
+1 4 5 9 2
+1 1 3 2 8
+2 6 6 8 8
+
+M=193: Found solution: smallest N=6 (17.57s)
+9 8 9 3 1 8
+9 6 8 6 6 7
+8 4 3 7 9 6
+3 4 1 2 2 4
+8 4 4 7 6 1
+9 7 2 9 1 3
+
+M=194: Found solution: smallest N=6 (17.60s)
+3 1 5 4 4 4
+9 7 7 3 7 2
+8 5 3 6 0 0
+4 5 0 6 6 2
+7 7 7 9 4 0
+6 0 6 4 4 4
+
+M=195: Timeout (>300s)
+
+M=196: Found solution: smallest N=5 (2.76s)
+3 3 5 1 6
+7 2 1 2 8
+8 9 3 7 6
+2 2 5 4 0
+8 8 2 0 0
+
+M=197: Found solution: smallest N=5 (3.44s)
+5 2 7 9 6
+1 3 1 9 9
+8 2 5 4 3
+1 4 1 8 4
+1 6 1 5 4
+
+M=198: Found solution: smallest N=6 (9.29s)
+2 7 9 7 7 4
+8 4 7 8 3 6
+7 4 8 8 3 6
+8 8 3 6 7 4
+9 7 1 3 8 8
+2 6 8 4 8 8
+
+M=199: Found solution: smallest N=6 (87.67s)
+4 7 3 4 2 1
+7 3 3 9 1 2
+9 6 4 9 5 1
+9 4 7 4 3 9
+8 9 1 9 1 8
+8 9 8 0 8 7
+
+M=200: Unsolvable because 10 divides 200
+
+M=201: Found solution: smallest N=6 (15.29s)
+7 9 3 3 4 7
+1 6 8 8 4 0
+2 4 2 4 0 6
+1 8 3 5 1 3
+4 0 0 1 9 1
+3 0 2 3 0 4
+
+M=202: Found solution: smallest N=5 (0.58s)
+8 6 4 5 6
+2 8 4 8 2
+2 2 0 1 8
+1 7 3 7 2
+4 6 6 6 2
+
+M=203: Found solution: smallest N=6 (22.65s)
+1 5 8 1 3 7
+3 2 0 1 3 1
+9 8 9 8 2 8
+6 8 5 7 3 4
+6 1 6 5 1 1
+4 5 4 5 1 7
+
+M=204: Found solution: smallest N=6 (8.83s)
+5 8 9 1 5 2
+1 5 0 5 5 2
+2 1 2 5 6 8
+4 7 4 0 9 6
+4 0 9 4 2 8
+8 0 6 0 0 4
+
+M=205: Timeout (>300s)
+
+M=206: Found solution: smallest N=5 (1.30s)
+5 6 4 4 4
+3 9 7 5 8
+7 4 5 7 2
+6 2 8 3 0
+6 2 6 2 4
+
+M=207: Found solution: smallest N=6 (39.72s)
+1 2 5 6 4 9
+1 1 1 1 5 9
+6 1 9 1 3 7
+9 7 1 4 5 1
+5 6 5 7 3 1
+5 1 6 8 7 9
+
+M=208: Found solution: smallest N=6 (17.03s)
+5 2 9 5 6 8
+5 5 5 9 8 4
+4 0 4 1 4 4
+1 0 7 5 3 6
+1 1 2 5 2 8
+2 6 0 2 0 8
+
+M=209: Found solution: smallest N=6 (10.48s)
+7 6 2 2 2 3
+6 6 1 0 6 7
+2 7 3 1 6 3
+6 9 3 8 8 0
+4 6 8 9 9 6
+1 4 9 4 3 5
+
+M=210: Unsolvable because 10 divides 210
+
+M=211: Found solution: smallest N=6 (32.71s)
+5 8 7 6 3 5
+4 0 4 4 8 7
+9 3 7 2 6 2
+2 6 9 2 3 6
+3 9 9 8 4 5
+3 9 5 4 1 4
+
+M=212: Found solution: smallest N=6 (13.23s)
+6 2 4 1 2 8
+6 0 4 2 0 0
+3 5 1 4 9 6
+3 4 3 8 6 4
+4 2 8 6 6 4
+8 8 4 8 8 8
+
+M=213: Found solution: smallest N=6 (10.98s)
+6 4 8 5 8 5
+6 4 3 4 7 3
+4 0 3 4 2 2
+3 4 8 0 4 2
+4 8 9 0 4 8
+7 4 5 2 8 7
+
+M=214: Found solution: smallest N=6 (10.83s)
+4 3 6 1 3 2
+3 6 9 7 9 2
+3 7 3 2 1 6
+5 2 3 0 1 6
+6 2 6 5 9 2
+4 4 0 6 2 6
+
+M=215: Timeout (>300s)
+
+M=216: Found solution: smallest N=6 (10.43s)
+1 1 2 9 6 8
+1 4 4 0 7 2
+8 2 9 2 2 4
+5 1 4 0 8 0
+8 2 8 1 4 4
+4 8 0 6 0 0
+
+M=217: Found solution: smallest N=6 (9.95s)
+3 2 3 1 1 3
+2 8 6 4 4 0
+3 3 8 0 8 6
+5 4 9 6 6 1
+4 0 0 1 4 8
+7 2 0 6 5 7
+
+M=218: Found solution: smallest N=6 (8.05s)
+4 8 2 4 3 4
+4 0 3 3 0 0
+1 9 3 5 8 4
+8 2 9 7 0 8
+8 1 1 8 3 2
+6 6 4 2 4 6
+
+M=219: Found solution: smallest N=6 (134.58s)
+8 6 8 3 3 5
+4 6 2 9 6 6
+1 6 3 5 9 3
+1 6 2 0 6 0
+7 3 2 7 7 4
+9 6 1 6 2 9
+
+M=220: Unsolvable because 10 divides 220
+
+M=221: Found solution: smallest N=6 (18.39s)
+2 2 3 4 3 1
+8 2 6 0 9 8
+6 2 8 5 2 4
+4 1 8 7 9 5
+1 0 4 5 3 3
+6 5 9 6 8 5
+
+M=222: Found solution: smallest N=5 (0.41s)
+8 7 9 1 2
+5 3 7 2 4
+6 9 4 8 6
+9 2 5 7 4
+2 6 8 6 2
+
+M=223: Found solution: smallest N=6 (77.45s)
+3 3 2 9 3 9
+9 2 6 5 6 5
+1 9 4 2 3 3
+3 1 2 4 2 3
+6 4 5 3 6 2
+5 8 5 3 7 5
+
+M=224: Found solution: smallest N=6 (11.85s)
+2 1 2 1 2 8
+9 6 0 0 6 4
+8 5 0 3 0 4
+3 7 9 9 0 4
+6 6 2 3 6 8
+8 0 8 6 4 0
+
+M=225: Timeout (>300s)
+
+M=226: Found solution: smallest N=6 (23.59s)
+3 5 3 4 6 4
+6 2 9 8 6 2
+4 1 4 9 3 6
+7 1 8 9 0 6
+6 5 2 6 8 8
+4 6 2 8 4 8
+
+M=227: Found solution: smallest N=6 (67.19s)
+1 8 2 2 8 1
+1 4 1 4 2 1
+5 0 6 2 1 0
+5 3 3 4 5 0
+4 5 3 3 1 9
+3 4 1 6 3 5
+
+M=228: Found solution: smallest N=6 (12.82s)
+5 1 6 6 4 8
+4 2 4 9 9 2
+2 6 4 0 2 4
+4 3 1 6 0 4
+1 1 0 1 2 4
+2 2 0 2 4 8
+
+M=229: Found solution: smallest N=6 (94.38s)
+2 6 1 7 4 7
+6 6 0 2 0 7
+4 4 8 8 4 0
+2 3 5 6 4 1
+6 2 4 7 1 2
+6 9 6 8 4 7
+
+M=230: Unsolvable because 10 divides 230
+
+M=231: Found solution: smallest N=5 (0.16s)
+4 7 1 2 4
+7 6 6 9 2
+3 4 6 5 0
+5 6 3 6 4
+5 1 2 8 2
+
+M=232: Found solution: smallest N=6 (7.11s)
+4 3 8 2 4 8
+1 8 7 4 5 6
+7 0 1 5 6 8
+1 0 6 4 8 8
+3 1 2 5 0 4
+6 6 4 6 8 0
+
+M=233: Found solution: smallest N=6 (77.69s)
+6 1 1 3 9 2
+1 6 7 7 6 0
+6 8 5 4 8 6
+7 9 9 6 5 6
+5 2 1 6 8 7
+1 5 5 4 1 1
+
+M=234: Found solution: smallest N=6 (88.45s)
+8 6 9 5 4 4
+5 0 6 3 7 6
+7 2 4 4 6 4
+8 7 0 4 8 0
+4 8 8 5 9 2
+4 4 0 6 2 2
+
+M=235: Timeout (>300s)
+
+M=236: Found solution: smallest N=6 (7.39s)
+7 8 3 7 5 6
+8 3 9 6 8 8
+9 8 0 1 0 8
+8 0 3 1 0 8
+9 3 4 0 8 8
+2 6 4 0 8 4
+
+M=237: Found solution: smallest N=6 (26.17s)
+5 6 5 4 8 2
+4 8 5 1 3 9
+8 7 0 5 0 1
+4 7 5 4 2 2
+1 7 5 6 1 7
+8 4 1 1 1 3
+
+M=238: Found solution: smallest N=6 (21.85s)
+2 4 4 6 6 4
+5 0 1 7 0 4
+2 0 2 7 7 6
+9 7 6 5 1 4
+9 9 9 8 3 8
+4 2 2 6 8 8
+
+M=239: Found solution: smallest N=6 (33.51s)
+5 4 3 7 2 5
+7 8 7 7 4 4
+4 6 9 3 9 6
+3 8 2 8 7 8
+1 4 9 8 5 3
+7 3 3 2 5 2
+
+M=240: Unsolvable because 10 divides 240
+
+M=241: Found solution: smallest N=5 (1.00s)
+3 6 6 3 2
+2 4 1 0 0
+5 5 4 3 0
+3 8 5 6 0
+5 8 5 6 3
+
+M=242: Found solution: smallest N=6 (6.39s)
+4 1 2 1 2 6
+1 5 1 7 3 4
+8 4 3 8 5 4
+4 6 6 5 7 6
+1 3 8 9 0 8
+8 8 6 6 8 8
+
+M=243: Found solution: smallest N=6 (22.11s)
+8 6 6 5 3 8
+6 0 1 4 2 5
+6 6 1 9 3 2
+2 0 8 4 9 4
+9 4 7 2 1 4
+5 2 4 3 9 4
+
+M=244: Found solution: smallest N=6 (7.69s)
+6 8 7 3 4 8
+6 5 6 8 4 8
+5 4 4 6 0 8
+8 7 4 4 9 6
+7 3 5 9 0 4
+6 2 2 6 8 8
+
+M=245: Timeout (>300s)
+
+M=246: Found solution: smallest N=6 (51.83s)
+8 5 6 8 1 8
+7 6 1 3 7 0
+4 2 5 3 3 4
+2 3 0 9 9 4
+8 5 0 4 2 2
+4 6 0 0 2 0
+
+M=247: Found solution: smallest N=6 (35.39s)
+9 6 1 3 2 4
+6 0 0 4 5 7
+9 6 4 7 8 2
+2 6 9 2 3 0
+2 3 7 8 6 1
+8 2 5 2 2 7
+
+M=248: Found solution: smallest N=6 (5.84s)
+7 1 5 7 2 8
+5 5 0 8 0 8
+2 8 1 9 7 6
+1 7 2 6 0 8
+8 2 0 3 8 4
+4 0 8 2 0 8
+
+M=249: Found solution: smallest N=6 (15.04s)
+9 9 7 7 4 3
+4 5 9 1 5 6
+2 9 4 0 6 9
+7 8 0 6 1 5
+1 9 6 4 6 1
+4 5 1 6 8 6
+
+M=250: Unsolvable because 10 divides 250
+
+M=251: Found solution: smallest N=6 (25.25s)
+3 9 4 5 7 2
+9 7 6 1 3 9
+2 7 9 6 1 4
+3 3 6 5 9 1
+1 9 2 5 1 7
+3 4 1 8 6 2
+
+M=252: Found solution: smallest N=6 (47.51s)
+3 3 9 9 4 8
+5 0 0 4 7 2
+8 4 2 1 8 4
+8 1 6 4 8 0
+4 6 6 7 0 4
+8 4 4 2 0 0
+
+M=253: Found solution: smallest N=6 (31.80s)
+7 6 2 2 8 9
+6 4 1 8 6 1
+5 5 2 5 5 2
+8 4 7 8 0 3
+3 0 7 9 0 1
+1 3 3 0 7 8
+
+M=254: Found solution: smallest N=6 (21.34s)
+1 5 6 9 7 2
+7 3 8 1 2 4
+6 8 4 0 2 2
+2 2 7 8 3 8
+7 2 8 4 7 2
+6 6 4 4 6 4
+
+M=255: Timeout (>300s)
