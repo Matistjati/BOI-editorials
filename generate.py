@@ -2,55 +2,55 @@ from pathlib import Path
 
 years = {
     "2025": 
-        ["boi", "tour", "tower", "developer", "exponents", "gcd"]
+        ["BOI", "Tour", "Tower", "Developer", "Exponents", "GCD"]
     ,
     "2024": 
-        ["jobs", "portal", "trains", "fire", "tiles", "wall"]
+        ["Jobs", "Portal", "Trains", "Fire", "Tiles", "Wall"]
     ,
     "2023": 
-        ["astronomer", "staringcontest", "tycho", "minequake", "mineraldeposits", "sequence"]
+        ["Astronomer", "Staring Contest", "Tycho", "Minequake", "Mineral Deposits", "Sequence"]
     ,
     "2022":
-        ["art", "events", "vault", "communication", "island", "passes"]
+        ["Art", "Events", "Vault", "Communication", "Island", "Passes"]
     ,
     "2021":
-        ["books", "servers", "watchmen", "prison", "swaps", "xanadu"]
+        ["Books", "Servers", "Watchmen", "Prison", "Swaps", "Xanadu"]
     ,
     "2020":
-        ["colors", "mixture", "joker", "graph", "village", "viruses"]
+        ["Colors", "Mixture", "Joker", "Graph", "Village", "Viruses"]
     ,
     "2019":
-        ["flash", "nautilus", "valley", "kitchen", "necklace", "olympiads"]
+        ["Flash", "Nautilus", "Valley", "Kitchen", "Necklace", "Olympiads"]
     ,
     "2018":
-        ["day1", "day2"]
+        [("Love Polygon", "day1.pdf"), ("Martian DNA", "day1.pdf"), ("Worm Worries", "day1.pdf"), ("Alternating Current", "day2.pdf"), ("Genetics", "day2.pdf"), ("Paths", "day2.pdf")]
     ,
     "2017": # These years having no editorials is shameful
-        [("political", "https://hackmd.io/sq5UfdRKQYKPTbEiaqf1LQ"), "", "", "", "", ""]
+        [("Political*", "https://hackmd.io/sq5UfdRKQYKPTbEiaqf1LQ"), "", "", "", "", ""]
     ,
     "2016": # These years having no editorials is shameful
-        ["", ("park", "https://hackmd.io/Xpf7nQRcS7WcAKkxiXxnBw"), "", "", "", ""]
+        ["", ("Park*", "https://hackmd.io/Xpf7nQRcS7WcAKkxiXxnBw"), "", "", "", ""]
     ,
     "2015": # These years having no editorials is shameful
-        ["", "", ("network", "https://hackmd.io/ycF_LYeMRJ6VMMIUQs-zsQ"), "", "", ("Tug of War", "https://hackmd.io/9HwGfPTXQsWuN0DQRJq2gw")]
+        ["", "", ("Network*", "https://hackmd.io/ycF_LYeMRJ6VMMIUQs-zsQ"), "", "", ("Tug of War*", "https://hackmd.io/9HwGfPTXQsWuN0DQRJq2gw")]
     ,
     "2014":
-        ["coprobber","friends","sequence","demarcation","portals",("postmen", "https://hackmd.io/-0c9lHR_QICv85TIXwPAbw")]
+        ["Cop and Robber", "Friends", "Sequence", "Demarcation", "Portals", ("Postmen*", "https://hackmd.io/-0c9lHR_QICv85TIXwPAbw")]
     ,
     "2013":
-        ["ballmachine", "numbers", "pipes", "brunhilda", "tracks", "vim"]
+        ["Ball Machine", "Numbers", "Pipes", "Brunhilda", "Tracks", "Vim"]
     ,
     "2012": # Missing: tiny (output only with open input)
-        ["brackets", "mobile", "peaks", "fire", "melody", ""]
+        ["Brackets", "Mobile", "Peaks", "Fire", "Melody", ""]
     ,
     "2011":
-        ["trees", "icecream", "lamp", "vikings", "meetings", "plagiarism", "polygon", "mirroring"]
+        ["Trees", "Icecream", "Lamp", "Vikings", "Meetings", "Plagiarism", "Polygon", "Mirroring"]
     ,
     "2010":
-        ["bears", "lego", "pbc", "bins", "candies", "mines"]
+        ["Bears", "Lego", "PBC", "Bins", "Candies", "Mines"]
     ,
     "2009":
-        ["beetle", "candy", "subway", "rectangle", "triangulation", "monument"]
+        ["Beetle", "Candy", "Subway", "Rectangle", "Triangulation", "Monument"]
     ,
     "2008":
         ["editorial"]
@@ -60,25 +60,25 @@ years = {
     ,
     "2006": # Website has no editorials (https://www.cs.helsinki.fi/group/boi2006/). Cses only has some
         # Missing: coins (normal task), city (normal task)
-        ["bitwise", "", "countries", "", "RLE", "jump"]
+        ["Bitwise", "", "Countries", "", "RLE", "Jump"]
     ,
     "2005": # Missing manuscript (normal task)
-        ["camp", "magic", "maze", "ancient(t)", "bustrip", "polygon"]
+        ["Camp", "Magic", "Maze", "Ancient(t)", "Bustrip", "Polygon"]
     ,
     "2004": # CSES only has code solutions. Website has no editorials (http://www.boi2004.lv/)
         ["", "", "", "", "", ""]
     ,
     "2003":
-        ["barrel", "gems", "table*", "gangs", "lamps", "regs"]
+        ["Barrel", "Gems", "Table*", "Gangs", "Lamps", "Regs"]
     ,
     "2002":
-        ["speed", "tennis", "triangles", "bicriterial", "lgame", "robots"]
+        ["Speed", "Tennis", "Triangles", "Bicriterial", "Lgame", "Robots"]
     ,
     "2001":
-        ["editorial"]
+        ["Editorial"]
     ,
     "2000": # Not in English....
-        ["editorial(u)"]
+        ["Editorial(u)"]
     ,
     "1999": # website up but no editorials https://www.lio.lv/boi99/. Cses only has code solutions
         ["", "", "", "", "", ""]
@@ -90,10 +90,10 @@ years = {
         ["", "", "", "", "", ""]
     ,
     "1996":
-        ["square", "sequence", "logexp", "barrels", "journey", "nbgame"]
+        ["Square", "Sequence", "LogExp", "Barrels", "Journey", "NBgame"]
     ,
     "1995":
-        ["currency", "expression", "prime", "rectangles", "taxi", "ifthenelse"]
+        ["Currency", "Expression", "Prime", "Rectangles", "Taxi", "IfThenElse"]
 }
 
 header = ["Year", "D1-1", "D1-2", "D1-3", "D2-1", "D2-2", "D2-3", "", ""]
@@ -113,21 +113,35 @@ print("|" + "|".join(["------"] * len(header)) + "|")
 
 extensions = ["pdf", "md", "txt"]
 def format_url(year, task):
+    task_name = None
+    task_url = None
     if isinstance(task, str):
-        suffix = ""
-        for mark in ["(u)", "(t)", "*"]:
-            if mark in task:
-                suffix += mark
-                task = task.replace(mark, "")
+        task_name = task
+    else:
+        task_name = task[0]
+
+    suffix = ""
+    for mark in ["(u)", "(t)", "*"]:
+        if mark in task_name:
+            suffix += mark
+            task_name = task_name.replace(mark, "")
+    
+    if isinstance(task, str):
+        task_shortname = ''.join(task_name.split()).lower()
         for ext in extensions:
-            if (Path("editions") / year / f"{task}.{ext}").exists():
+            if (Path("editions") / year / f"{task_shortname}.{ext}").exists():
                 extension = ext
                 break
         else:
-            assert 0, f"Nothing for {year}/{task}"
-        return f"[{task.capitalize()}](editions/{year}/{task}.{extension}){suffix}"
+            assert 0, f"Nothing for {year}/{task_name}"
+        task_url = f"editions/{year}/{task_shortname}.{extension}"
     else:
-        return f"[{task[0].capitalize()}]({task[1]})\\*"
+        if "https" in task[1]:
+            task_url = task[1]
+        else:
+            task_url = f"editions/{year}/{task[1]}"
+
+    return f"[{task_name}]({task_url}){suffix}"
 
 tot = 0
 has = 0
@@ -137,12 +151,9 @@ for year, p_list in years.items():
     tasks = []
     if len(p_list) in (6, 8):
         tasks = p_list
-    elif len(p_list) == 2:
-        tasks = [p_list[0], p_list[0], p_list[0], p_list[1], p_list[1], p_list[1]]
     elif len(p_list) == 1:
-        tasks = [p_list[0] for i in range(6)]
+        tasks = [p_list[0]] * 6
     else:
-        print(p_list)
         assert 0
     row = [year]
 
@@ -157,4 +168,4 @@ for year, p_list in years.items():
     
     print("| " + " | ".join(row) + " |")
 
-print(f"\n\nProgress: {has/tot*100:.2f}%")
+print(f"\n\nProgress: {has/tot*100:.2f}% ({has}/{tot})")
